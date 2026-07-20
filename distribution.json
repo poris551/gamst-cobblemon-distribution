@@ -30,7 +30,7 @@
           "artifact": {
             "size": 1976502,
             "MD5": "881e0e9f53a11b9ad468b47afd678bfd",
-            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/repo/lib/net/fabricmc/fabric-loader/0.19.3/fabric-loader-0.19.3.jar"
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/repo/lib/net/fabricmc/fabric-loader/0.19.3/fabric-loader-0.19.3.jar"
           },
           "subModules": [
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 2862,
                 "MD5": "b77f7942a03223b0c8b2ac0ae2786788",
-                "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/repo/versions/1.21.1-fabric-0.19.3/1.21.1-fabric-0.19.3.json"
+                "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/repo/versions/1.21.1-fabric-0.19.3/1.21.1-fabric-0.19.3.json"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 126151,
                 "MD5": "9cb72080438acf27f2607002e1444a7b",
-                "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/repo/lib/org/ow2/asm/asm/9.10.1/asm-9.10.1.jar"
+                "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/repo/lib/org/ow2/asm/asm/9.10.1/asm-9.10.1.jar"
               }
             },
             {
@@ -60,7 +60,7 @@
               "artifact": {
                 "size": 35140,
                 "MD5": "6dd9011ec87f65e4b2e14e938c4118e4",
-                "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/repo/lib/org/ow2/asm/asm-analysis/9.10.1/asm-analysis-9.10.1.jar"
+                "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/repo/lib/org/ow2/asm/asm-analysis/9.10.1/asm-analysis-9.10.1.jar"
               }
             },
             {
@@ -70,7 +70,7 @@
               "artifact": {
                 "size": 74840,
                 "MD5": "8eee0b1bdd046baf472eb83dd5e6bb44",
-                "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/repo/lib/org/ow2/asm/asm-commons/9.10.1/asm-commons-9.10.1.jar"
+                "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/repo/lib/org/ow2/asm/asm-commons/9.10.1/asm-commons-9.10.1.jar"
               }
             },
             {
@@ -80,7 +80,7 @@
               "artifact": {
                 "size": 51958,
                 "MD5": "62541e1dc62331408ef31317555bf4fa",
-                "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/repo/lib/org/ow2/asm/asm-tree/9.10.1/asm-tree-9.10.1.jar"
+                "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/repo/lib/org/ow2/asm/asm-tree/9.10.1/asm-tree-9.10.1.jar"
               }
             },
             {
@@ -90,7 +90,7 @@
               "artifact": {
                 "size": 95628,
                 "MD5": "d0892ecb209867805e7d2418e5dc6c42",
-                "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/repo/lib/org/ow2/asm/asm-util/9.10.1/asm-util-9.10.1.jar"
+                "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/repo/lib/org/ow2/asm/asm-util/9.10.1/asm-util-9.10.1.jar"
               }
             },
             {
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 1540060,
                 "MD5": "87002a5fc9faa1543bf4204f8d5876fb",
-                "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/repo/lib/net/fabricmc/sponge-mixin/0.17.3+mixin.0.8.7/sponge-mixin-0.17.3+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/repo/lib/net/fabricmc/sponge-mixin/0.17.3+mixin.0.8.7/sponge-mixin-0.17.3+mixin.0.8.7.jar"
               }
             },
             {
@@ -110,7 +110,7 @@
               "artifact": {
                 "size": 657725,
                 "MD5": "850be48a3406b9efdf8e64b1c2db97f8",
-                "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/repo/lib/net/fabricmc/intermediary/1.21.1/intermediary-1.21.1.jar"
+                "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/repo/lib/net/fabricmc/intermediary/1.21.1/intermediary-1.21.1.jar"
               }
             }
           ]
