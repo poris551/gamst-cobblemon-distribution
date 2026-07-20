@@ -134,6 +134,17 @@
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/fabric-api-0.116.14+1.21.1.jar",
             "MD5": "777f1430b4d18ed9d7f4ad18ed0c0012"
           }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 3885,
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/files/options.txt",
+            "MD5": "0adcf6d24146301879872c7360a31660",
+            "path": "options.txt"
+          }
         }
       ]
     }
