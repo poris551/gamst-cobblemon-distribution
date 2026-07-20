@@ -9,8 +9,8 @@
   "servers": [
     {
       "id": "gamst-1.21.1",
-      "name": "코블몬 (Minecraft 1.21.1)",
-      "description": "gamst Running Minecraft 1.21.1 (Fabric v0.19.3)",
+      "name": "코블몬 (1.21.1)",
+      "description": "감스트 내수용 서버",
       "icon": null,
       "version": "1.0.0",
       "address": "1.225.218.213:25565",
