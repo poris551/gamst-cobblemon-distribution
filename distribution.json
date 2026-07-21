@@ -361,16 +361,6 @@
           }
         },
         {
-          "id": "io.wispforest:owo:0.12.15.4+1.21@jar",
-          "name": "Oωo",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1183559,
-            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/owo-lib-0.12.15.4+1.21.jar",
-            "MD5": "3627aee17111e12a8c66928f5d7a3fba"
-          }
-        },
-        {
           "id": "com.supermartijn642:rechiseled:1.2.5@jar",
           "name": "Rechiseled",
           "type": "FabricMod",
