@@ -172,13 +172,13 @@
           }
         },
         {
-          "id": "me.cominixo:betterf3:19.0.0@jar",
+          "id": "me.cominixo:betterf3:11.0.3@jar",
           "name": "BetterF3",
           "type": "FabricMod",
           "artifact": {
-            "size": 719081,
-            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/optionalon/BetterF3-19.0.0-Fabric-26.2.jar",
-            "MD5": "7fd0a1c005919c6c0816e25318864e30"
+            "size": 1810710,
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/optionalon/BetterF3-11.0.3-Fabric-1.21.1.jar",
+            "MD5": "4f3a811be18c5c1cb64f39f3de6fb0bd"
           },
           "required": {
             "value": false
