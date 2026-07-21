@@ -9,8 +9,8 @@
   "servers": [
     {
       "id": "gamst-1.21.1",
-      "name": "코블몬 (1.21.1)",
-      "description": "감스트 내수용 서버",
+      "name": "코블몬 (Minecraft 1.21.1)",
+      "description": "gamst Running Minecraft 1.21.1 (Fabric v0.19.3)",
       "icon": null,
       "version": "1.0.0",
       "address": "1.225.218.213:25565",
@@ -116,6 +116,141 @@
           ]
         },
         {
+          "id": "io.wispforest:accessories:1.1.0-beta.53+1.21.1@jar",
+          "name": "Accessories",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1095802,
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/accessories-fabric-1.1.0-beta.53+1.21.1.jar",
+            "MD5": "1f332447eadf66a07b33e641816fcd5e"
+          }
+        },
+        {
+          "id": "dev.architectury.utils:architectury:13.0.8@jar",
+          "name": "Architectury",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 600915,
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/architectury-13.0.8-fabric.jar",
+            "MD5": "702e92d09a4855c6c8aa9e738a48efa4"
+          }
+        },
+        {
+          "id": "earth.terrarium.athena.impl:athena:4.0.6@jar",
+          "name": "Athena",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 88425,
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/athena-fabric-1.21.1-4.0.6.jar",
+            "MD5": "a549af3b3a32722ab81ff11d9f44f90b"
+          }
+        },
+        {
+          "id": "earth.terrarium.athena.impl:athena:4.0.6@jar",
+          "name": "Athena",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 88425,
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/optionalon/athena-fabric-1.21.1-4.0.6.jar",
+            "MD5": "a549af3b3a32722ab81ff11d9f44f90b"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.joshiki.betterpokedexscanner:better_pokedex_scanner:1.0.0@jar",
+          "name": "Better Pokédex Scanner",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 350293,
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/optionalon/better-pokedex-scanner-1.0.0.jar",
+            "MD5": "bb097232f80b5a070dec10e16af7b088"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "me.cominixo:betterf3:19.0.0@jar",
+          "name": "BetterF3",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 719081,
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/optionalon/BetterF3-19.0.0-Fabric-26.2.jar",
+            "MD5": "7fd0a1c005919c6c0816e25318864e30"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "us.timinc.mc.cobblemon.capturexp:capture_xp:1.7.3-fabric-1.3.0@jar",
+          "name": "Cobblemon Capture XP",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 22848,
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/capturexp-fabric-1.7.3-1.3.0.jar",
+            "MD5": "e6fc02948bb7b46b6554bc6df987e6f2"
+          }
+        },
+        {
+          "id": "com.levelscraft7:catchindicator:1.8.0@jar",
+          "name": "Catch Indicator",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 325432,
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/optionalon/catchindicator-fabric-1.8.0.jar",
+            "MD5": "3ebd0ce398e8aed7cf4eb854e2064f6d"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.catchrate:catchrate-display:2.8.22@jar",
+          "name": "Cobblemon Catch Rate Display",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 260470,
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/optionalon/catchrate-display-fabric-2.8.22.jar",
+            "MD5": "c179e5ff4c5fa735bbcedd0f4fadf2dd"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "earth.terrarium:chipped:4.0.2@jar",
+          "name": "Chipped",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 15016830,
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/chipped-fabric-1.21.1-4.0.2.jar",
+            "MD5": "c98271e7ba961e78e4a589fc53fa71a2"
+          }
+        },
+        {
+          "id": "com.lunazstudios:cobblefurnies:1.2@jar",
+          "name": "CobbleFurnies",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2337235,
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/CobbleFurnies-fabric-1.2.jar",
+            "MD5": "a2a86b8aac2ebd5208dc92a561c5e113"
+          }
+        },
+        {
+          "id": "name.modid:cobblemon-battle-extras:1.13.45@jar",
+          "name": "Cobblemon Battle Extras",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1515972,
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/cobblemon-battle-extras-fabric-1.13.45.jar",
+            "MD5": "dbf09923dc28a0339c5c5bb7eae9061d"
+          }
+        },
+        {
           "id": "com.cobblemon.mod:cobblemon:1.7.3+1.21.1@jar",
           "name": "Cobblemon",
           "type": "FabricMod",
@@ -126,6 +261,26 @@
           }
         },
         {
+          "id": "com.cobblemon.mod:cobblemon:1.7.3+1.21.1@jar",
+          "name": "Cobblemon",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 135801550,
+            "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/kF7CvxTo/Cobblemon-fabric-1.7.3+1.21.1.jar",
+            "MD5": "1de64f280372ec94e4376976fb579d52"
+          }
+        },
+        {
+          "id": "com.necro.raid.dens:cobblemonraiddens:0.11.4+1.21.1@jar",
+          "name": "Cobblemon Raid Dens",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2691155,
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/cobblemonraiddens-fabric-0.11.4+1.21.1.jar",
+            "MD5": "8457266b951ce62a79a9d3b6aaa3c363"
+          }
+        },
+        {
           "id": "generated.fabricmod:fabric-api:0.116.14+1.21.1@jar",
           "name": "Fabric API",
           "type": "FabricMod",
@@ -133,6 +288,186 @@
             "size": 2451978,
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/fabric-api-0.116.14+1.21.1.jar",
             "MD5": "777f1430b4d18ed9d7f4ad18ed0c0012"
+          }
+        },
+        {
+          "id": "fuzs.forgeconfigapiport.fabric.impl:forgeconfigapiport:21.1.6@jar",
+          "name": "Forge Config API Port",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 633065,
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+            "MD5": "eba1a7f9d9976e983a2b9eb5e915e087"
+          }
+        },
+        {
+          "id": "com.supermartijn642:fusion:1.3.9@jar",
+          "name": "Fusion",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 888707,
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/fusion-1.3.9-fabric-mc1.21.jar",
+            "MD5": "80d08aefb1fc2ebdbb61f39231d75ca0"
+          }
+        },
+        {
+          "id": "software.bernie:geckolib:4.9.2@jar",
+          "name": "GeckoLib 4",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 660416,
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/geckolib-fabric-1.21.1-4.9.2.jar",
+            "MD5": "fe791e7b10c8b7c736ea3e57747eac09"
+          }
+        },
+        {
+          "id": "com.jorgaomc:legendarymonuments:8.0.3@jar",
+          "name": "Legendary Monuments",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 16515580,
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/legendarymonuments-fabric-1.21.1-8.0.3.jar",
+            "MD5": "294879da0f1cb05be9818f93189b4861"
+          }
+        },
+        {
+          "id": "dev.worldgen:lithostitched:1.7.13@jar",
+          "name": "Lithostitched",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 827470,
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/lithostitched-1.7.13-fabric-21.1.jar",
+            "MD5": "1654f22b58c0aa48ec1620d85f2d87e6"
+          }
+        },
+        {
+          "id": "generated.fabricmod:mega_showdown:fabric-1.8.4+1.7.3+1.21.1@jar",
+          "name": "Mega_showdown",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 17213370,
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/mega_showdown-fabric-1.8.4+1.7.3+1.21.1.jar",
+            "MD5": "0e3197dd14c98ce0240d498114cfe143"
+          }
+        },
+        {
+          "id": "eu.midnightdust.core:midnightlib:1.9.3@jar",
+          "name": "MidnightLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 58781,
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/midnightlib-fabric-1.9.3+1.21.1.jar",
+            "MD5": "422e8f303bbfa71f65025059a21d947f"
+          }
+        },
+        {
+          "id": "com.pcrgaming:obc:1.3.0@jar",
+          "name": "Only Bottle Caps",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 250451,
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/Only%20Bottle%20Caps-1.3.0.jar",
+            "MD5": "2380d10d347cf1c18dfdf9eec429f599"
+          }
+        },
+        {
+          "id": "io.wispforest:owo:0.12.15.4+1.21@jar",
+          "name": "Oωo",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1183559,
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/owo-lib-0.12.15.4+1.21.jar",
+            "MD5": "3627aee17111e12a8c66928f5d7a3fba"
+          }
+        },
+        {
+          "id": "com.supermartijn642:rechiseled:1.2.5@jar",
+          "name": "Rechiseled",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 11924403,
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/rechiseled-1.2.5-fabric-mc1.21.jar",
+            "MD5": "6bd58a6054aff9e2a3ca18cd0bfdafb3"
+          }
+        },
+        {
+          "id": "com.telepathicgrunt.repurposedstructures:repurposed_structures:7.5.21+1.21.1-fabric@jar",
+          "name": "Repurposed Structures",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 8202318,
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/repurposed_structures-7.5.21+1.21.1-fabric.jar",
+            "MD5": "deb4b37a167bf3eedd2345573c832936"
+          }
+        },
+        {
+          "id": "com.teamresourceful:resourcefullib:3.0.12@jar",
+          "name": "Resourceful Lib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 485586,
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/resourcefullib-fabric-1.21-3.0.12.jar",
+            "MD5": "89dac4248b76747800fbc00fa063825e"
+          }
+        },
+        {
+          "id": "net.p3pp3rf1y:sophisticatedbackpacks:1.21.1-3.23.4.3.106@jar",
+          "name": "Sophisticated Backpacks",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 988478,
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/sophisticatedbackpacks-1.21.1-3.23.4.3.106.jar",
+            "MD5": "642d3aaa4161a9df7b709a6b7f378f17"
+          }
+        },
+        {
+          "id": "net.p3pp3rf1y:sophisticatedcore:1.21.1-1.2.9.21.168@jar",
+          "name": "Sophisticated Core",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2996065,
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/sophisticatedcore-1.21.1-1.2.9.21.168.jar",
+            "MD5": "44bf607ca1a8bfb7410514db85ac9c28"
+          }
+        },
+        {
+          "id": "com.supermartijn642.core:supermartijn642corelib:1.1.21@jar",
+          "name": "SuperMartijn642's Core Lib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 616830,
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/supermartijn642corelib-1.1.21-fabric-mc1.21.jar",
+            "MD5": "3da1b1056bb9b19eee8957a537e6c5e0"
+          }
+        },
+        {
+          "id": "us.timinc.mc.cobblemon.timcore:tim_core:1.7.3-fabric-1.32.0@jar",
+          "name": "Tim Core",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 304444,
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/timcore-fabric-1.7.3-1.32.0.jar",
+            "MD5": "f206df5480d269c0c0fe27846acb1d89"
+          }
+        },
+        {
+          "id": "kiwiapollo.tmcraft:tmcraft:1.4.18+1.7.3@jar",
+          "name": "TM Craft",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3360417,
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/tmcraft-1.4.18+1.7.3.jar",
+            "MD5": "3bb04243884b305b228de0ed352ae89a"
+          }
+        },
+        {
+          "id": "org.zamega:zamega:1.7.3@jar",
+          "name": "Zamega",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2387420,
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/zamega-fabric-1.7.3.jar",
+            "MD5": "42019a1020a2c9ffccf529a42c968a16"
           }
         },
         {
