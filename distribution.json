@@ -236,16 +236,6 @@
           }
         },
         {
-          "id": "net.thewinnt.cutscenes:cutscene_api:1.6.6@jar",
-          "name": "Cutscene API",
-          "type": "FabricMod",
-          "artifact": {
-            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/cutscene-api-mc1.21.1-fabric-1.6.6.jar",
-            "size": 280910,
-            "MD5": "38a54fefd3ea8669542ddaf292aebac5"
-          }
-        },
-        {
           "id": "generated.fabricmod:fabric-api:0.116.14+1.21.1@jar",
           "name": "Fabric API",
           "type": "FabricMod",
@@ -333,16 +323,6 @@
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/jei-1.21.1-fabric-19.42.0.385.jar",
             "size": 1682806,
             "MD5": "817df818766008b519d3788187025e9b"
-          }
-        },
-        {
-          "id": "me.steinborn.krypton.mod.shared:krypton:0.2.8@jar",
-          "name": "Krypton",
-          "type": "FabricMod",
-          "artifact": {
-            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/krypton-0.2.8.jar",
-            "size": 161045,
-            "MD5": "9ba3d734dac0e59deb4721f2f23c65ad"
           }
         },
         {
