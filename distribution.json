@@ -120,8 +120,8 @@
           "name": "Accessories",
           "type": "FabricMod",
           "artifact": {
-            "size": 1095802,
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/accessories-fabric-1.1.0-beta.53+1.21.1.jar",
+            "size": 1095802,
             "MD5": "1f332447eadf66a07b33e641816fcd5e"
           }
         },
@@ -130,8 +130,8 @@
           "name": "Architectury",
           "type": "FabricMod",
           "artifact": {
-            "size": 600915,
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/architectury-13.0.8-fabric.jar",
+            "size": 600915,
             "MD5": "702e92d09a4855c6c8aa9e738a48efa4"
           }
         },
@@ -140,8 +140,8 @@
           "name": "Athena",
           "type": "FabricMod",
           "artifact": {
-            "size": 88425,
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/athena-fabric-1.21.1-4.0.6.jar",
+            "size": 88425,
             "MD5": "a549af3b3a32722ab81ff11d9f44f90b"
           }
         },
@@ -150,8 +150,8 @@
           "name": "Better Pokédex Scanner",
           "type": "FabricMod",
           "artifact": {
-            "size": 350293,
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/better-pokedex-scanner-1.0.0.jar",
+            "size": 350293,
             "MD5": "bb097232f80b5a070dec10e16af7b088"
           }
         },
@@ -160,8 +160,8 @@
           "name": "BetterF3",
           "type": "FabricMod",
           "artifact": {
-            "size": 1810710,
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/BetterF3-11.0.3-Fabric-1.21.1.jar",
+            "size": 1810710,
             "MD5": "4f3a811be18c5c1cb64f39f3de6fb0bd"
           }
         },
@@ -170,8 +170,8 @@
           "name": "Catch Indicator",
           "type": "FabricMod",
           "artifact": {
-            "size": 325432,
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/catchindicator-fabric-1.8.0.jar",
+            "size": 325432,
             "MD5": "3ebd0ce398e8aed7cf4eb854e2064f6d"
           }
         },
@@ -180,8 +180,8 @@
           "name": "Cobblemon Catch Rate Display",
           "type": "FabricMod",
           "artifact": {
-            "size": 260470,
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/catchrate-display-fabric-2.8.22.jar",
+            "size": 260470,
             "MD5": "c179e5ff4c5fa735bbcedd0f4fadf2dd"
           }
         },
@@ -190,8 +190,8 @@
           "name": "Chipped",
           "type": "FabricMod",
           "artifact": {
-            "size": 15016830,
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/chipped-fabric-1.21.1-4.0.2.jar",
+            "size": 15016830,
             "MD5": "c98271e7ba961e78e4a589fc53fa71a2"
           }
         },
@@ -200,8 +200,8 @@
           "name": "CobbleFurnies",
           "type": "FabricMod",
           "artifact": {
-            "size": 2337235,
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/CobbleFurnies-fabric-1.2.jar",
+            "size": 2337235,
             "MD5": "a2a86b8aac2ebd5208dc92a561c5e113"
           }
         },
@@ -210,8 +210,8 @@
           "name": "Cobblemon Battle Extras",
           "type": "FabricMod",
           "artifact": {
-            "size": 1515972,
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/cobblemon-battle-extras-fabric-1.13.45.jar",
+            "size": 1515972,
             "MD5": "dbf09923dc28a0339c5c5bb7eae9061d"
           }
         },
@@ -220,8 +220,8 @@
           "name": "Cobblemon",
           "type": "FabricMod",
           "artifact": {
-            "size": 135801550,
             "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/kF7CvxTo/Cobblemon-fabric-1.7.3+1.21.1.jar",
+            "size": 135801550,
             "MD5": "1de64f280372ec94e4376976fb579d52"
           }
         },
@@ -230,8 +230,8 @@
           "name": "Cobblemon Raid Dens",
           "type": "FabricMod",
           "artifact": {
-            "size": 2691155,
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/cobblemonraiddens-fabric-0.11.4+1.21.1.jar",
+            "size": 2691155,
             "MD5": "8457266b951ce62a79a9d3b6aaa3c363"
           }
         },
@@ -240,8 +240,8 @@
           "name": "Cutscene API",
           "type": "FabricMod",
           "artifact": {
-            "size": 280910,
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/cutscene-api-mc1.21.1-fabric-1.6.6.jar",
+            "size": 280910,
             "MD5": "38a54fefd3ea8669542ddaf292aebac5"
           }
         },
@@ -250,9 +250,19 @@
           "name": "Fabric API",
           "type": "FabricMod",
           "artifact": {
-            "size": 2451978,
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/fabric-api-0.116.14+1.21.1.jar",
+            "size": 2451978,
             "MD5": "777f1430b4d18ed9d7f4ad18ed0c0012"
+          }
+        },
+        {
+          "id": "generated.fabricmod:ferritecore:7.0.3@jar",
+          "name": "FerriteCore",
+          "type": "FabricMod",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/ferritecore-7.0.3-fabric.jar",
+            "size": 123450,
+            "MD5": "b8513c8c3eef01ea1117ed8d8cba060d"
           }
         },
         {
@@ -260,8 +270,8 @@
           "name": "Forge Config API Port",
           "type": "FabricMod",
           "artifact": {
-            "size": 633065,
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+            "size": 633065,
             "MD5": "eba1a7f9d9976e983a2b9eb5e915e087"
           }
         },
@@ -270,8 +280,8 @@
           "name": "Fusion",
           "type": "FabricMod",
           "artifact": {
-            "size": 888707,
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/fusion-1.3.9-fabric-mc1.21.jar",
+            "size": 888707,
             "MD5": "80d08aefb1fc2ebdbb61f39231d75ca0"
           }
         },
@@ -280,9 +290,59 @@
           "name": "GeckoLib 4",
           "type": "FabricMod",
           "artifact": {
-            "size": 660416,
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/geckolib-fabric-1.21.1-4.9.2.jar",
+            "size": 660416,
             "MD5": "fe791e7b10c8b7c736ea3e57747eac09"
+          }
+        },
+        {
+          "id": "software.bernie:geckolib:4.9.2@jar",
+          "name": "GeckoLib 4",
+          "type": "FabricMod",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/geckolib-fabric-1.21.1-4.9.2%20(1).jar",
+            "size": 660416,
+            "MD5": "fe791e7b10c8b7c736ea3e57747eac09"
+          }
+        },
+        {
+          "id": "com.iridium:iridium:0.1.0@jar",
+          "name": "Iridium",
+          "type": "FabricMod",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/iridium-0.1.0.jar",
+            "size": 106343,
+            "MD5": "cb766b775c428b0d62ce3eaa7147f06a"
+          }
+        },
+        {
+          "id": "generated.fabricmod:iris:1.8.14-beta.1+mc1.21.1@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
+            "size": 2791343,
+            "MD5": "4399f0c3edfe2af7f61db3725fe5c751"
+          }
+        },
+        {
+          "id": "mezz.jei:jei:19.42.0.385@jar",
+          "name": "Just Enough Items",
+          "type": "FabricMod",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/jei-1.21.1-fabric-19.42.0.385.jar",
+            "size": 1682806,
+            "MD5": "817df818766008b519d3788187025e9b"
+          }
+        },
+        {
+          "id": "me.steinborn.krypton.mod.shared:krypton:0.2.8@jar",
+          "name": "Krypton",
+          "type": "FabricMod",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/krypton-0.2.8.jar",
+            "size": 161045,
+            "MD5": "9ba3d734dac0e59deb4721f2f23c65ad"
           }
         },
         {
@@ -290,9 +350,19 @@
           "name": "Legendary Monuments",
           "type": "FabricMod",
           "artifact": {
-            "size": 16515580,
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/legendarymonuments-fabric-1.21.1-8.0.3.jar",
+            "size": 16515580,
             "MD5": "294879da0f1cb05be9818f93189b4861"
+          }
+        },
+        {
+          "id": "net.caffeinemc.mods:lithium:0.15.4+mc1.21.1@jar",
+          "name": "Lithium",
+          "type": "FabricMod",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/lithium-fabric-0.15.4+mc1.21.1.jar",
+            "size": 797454,
+            "MD5": "6fd6783640f42130f041b50cca2d3be6"
           }
         },
         {
@@ -300,8 +370,8 @@
           "name": "Lithostitched",
           "type": "FabricMod",
           "artifact": {
-            "size": 827470,
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/lithostitched-1.7.13-fabric-21.1.jar",
+            "size": 827470,
             "MD5": "1654f22b58c0aa48ec1620d85f2d87e6"
           }
         },
@@ -310,9 +380,19 @@
           "name": "Mega_showdown",
           "type": "FabricMod",
           "artifact": {
-            "size": 17213370,
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/mega_showdown-fabric-1.8.4+1.7.3+1.21.1.jar",
+            "size": 17213370,
             "MD5": "0e3197dd14c98ce0240d498114cfe143"
+          }
+        },
+        {
+          "id": "org.embeddedt:modernfix:5.25.1+mc1.21.1@jar",
+          "name": "ModernFix",
+          "type": "FabricMod",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/modernfix-fabric-5.25.1+mc1.21.1.jar",
+            "size": 471258,
+            "MD5": "17260c894041b7b4a1b1f2fd1a8f1a8b"
           }
         },
         {
@@ -320,8 +400,8 @@
           "name": "Only Bottle Caps",
           "type": "FabricMod",
           "artifact": {
-            "size": 250451,
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/Only%20Bottle%20Caps-1.3.0.jar",
+            "size": 250451,
             "MD5": "2380d10d347cf1c18dfdf9eec429f599"
           }
         },
@@ -330,8 +410,8 @@
           "name": "Oωo",
           "type": "FabricMod",
           "artifact": {
-            "size": 1183559,
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/owo-lib-0.12.15.4+1.21.jar",
+            "size": 1183559,
             "MD5": "3627aee17111e12a8c66928f5d7a3fba"
           }
         },
@@ -340,9 +420,19 @@
           "name": "Perkemon_ClientMod",
           "type": "FabricMod",
           "artifact": {
-            "size": 32634,
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/perkemon_clientmod-1.0-SNAPSHOT.jar",
-            "MD5": "770fa00f9a6eee81e4382b18b82b0fb0"
+            "size": 11275392,
+            "MD5": "b2c4e509d803c601a1ae9cdd583ab750"
+          }
+        },
+        {
+          "id": "su.plo.voice:plasmovoice:2.1.13@jar",
+          "name": "Plasmo Voice",
+          "type": "FabricMod",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/plasmovoice-fabric-1.21.1-2.1.13.jar",
+            "size": 12326762,
+            "MD5": "2a473414715c4b9752668491a8971c1a"
           }
         },
         {
@@ -350,9 +440,19 @@
           "name": "Resourceful Lib",
           "type": "FabricMod",
           "artifact": {
-            "size": 485586,
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/resourcefullib-fabric-1.21-3.0.12.jar",
+            "size": 485586,
             "MD5": "89dac4248b76747800fbc00fa063825e"
+          }
+        },
+        {
+          "id": "net.caffeinemc.mods:sodium:0.8.12+mc1.21.1@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/sodium-fabric-0.8.12+mc1.21.1.jar",
+            "size": 1573180,
+            "MD5": "4ee4e9d6d047e0bbefaf45deca603fa6"
           }
         },
         {
@@ -360,8 +460,8 @@
           "name": "Sophisticated Backpacks",
           "type": "FabricMod",
           "artifact": {
-            "size": 988478,
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/sophisticatedbackpacks-1.21.1-3.23.4.3.106.jar",
+            "size": 988478,
             "MD5": "642d3aaa4161a9df7b709a6b7f378f17"
           }
         },
@@ -370,8 +470,8 @@
           "name": "Sophisticated Core",
           "type": "FabricMod",
           "artifact": {
-            "size": 2996065,
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/sophisticatedcore-1.21.1-1.2.9.21.168.jar",
+            "size": 2996065,
             "MD5": "44bf607ca1a8bfb7410514db85ac9c28"
           }
         },
@@ -380,9 +480,19 @@
           "name": "TM Craft",
           "type": "FabricMod",
           "artifact": {
-            "size": 3360417,
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/tmcraft-1.4.18+1.7.3.jar",
+            "size": 3360417,
             "MD5": "3bb04243884b305b228de0ed352ae89a"
+          }
+        },
+        {
+          "id": "xaero.minimap:xaerominimap:26.4.2@jar",
+          "name": "Xaero's Minimap",
+          "type": "FabricMod",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/xaerominimap-fabric-1.21.1-26.4.2.jar",
+            "size": 2233608,
+            "MD5": "c5dc72b99f6bca09e42e5786da1c9b97"
           }
         },
         {
@@ -390,9 +500,141 @@
           "name": "Zamega",
           "type": "FabricMod",
           "artifact": {
-            "size": 2387420,
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/zamega-fabric-1.7.3.jar",
+            "size": 2387420,
             "MD5": "42019a1020a2c9ffccf529a42c968a16"
+          }
+        },
+        {
+          "id": "client.cfg",
+          "name": "client.cfg",
+          "type": "File",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/files/config/xaero/lib/client.cfg",
+            "size": 26,
+            "MD5": "dd7d24d2b991f7648671c16d0a74c265",
+            "path": "config/xaero/lib/client.cfg"
+          }
+        },
+        {
+          "id": "common.cfg",
+          "name": "common.cfg",
+          "type": "File",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/files/config/xaero/lib/common.cfg",
+            "size": 236,
+            "MD5": "e085e122e32132e1fa73ac927f7ece81",
+            "path": "config/xaero/lib/common.cfg"
+          }
+        },
+        {
+          "id": "default.cfg",
+          "name": "default.cfg",
+          "type": "File",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/files/config/xaero/lib/profiles/default.cfg",
+            "size": 121,
+            "MD5": "e6a2491cfa99c4163942c19eb7b4c489",
+            "path": "config/xaero/lib/profiles/default.cfg"
+          }
+        },
+        {
+          "id": "default.cfg",
+          "name": "default.cfg",
+          "type": "File",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/files/config/xaero/lib/server_profiles/default.cfg",
+            "size": 75,
+            "MD5": "a7ba1c4e531ad6afe1fa89e86f7dfd6f",
+            "path": "config/xaero/lib/server_profiles/default.cfg"
+          }
+        },
+        {
+          "id": "client.cfg",
+          "name": "client.cfg",
+          "type": "File",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/files/config/xaero/minimap/client.cfg",
+            "size": 235,
+            "MD5": "7a8d5e6353c7471f6002052f1fbd71bb",
+            "path": "config/xaero/minimap/client.cfg"
+          }
+        },
+        {
+          "id": "common.cfg",
+          "name": "common.cfg",
+          "type": "File",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/files/config/xaero/minimap/common.cfg",
+            "size": 147,
+            "MD5": "48d56532be92f58e976a2d1753abdd35",
+            "path": "config/xaero/minimap/common.cfg"
+          }
+        },
+        {
+          "id": "default_radar_categories_client.json",
+          "name": "default_radar_categories_client.json",
+          "type": "File",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/files/config/xaero/minimap/default_radar_categories_client.json",
+            "size": 5531,
+            "MD5": "0e8e29f25acbd9e2afba35ce9bb2fb9c",
+            "path": "config/xaero/minimap/default_radar_categories_client.json"
+          }
+        },
+        {
+          "id": "default_radar_categories_server.json",
+          "name": "default_radar_categories_server.json",
+          "type": "File",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/files/config/xaero/minimap/default_radar_categories_server.json",
+            "size": 4597,
+            "MD5": "7ffe568a308241b93166af2d45ce79c7",
+            "path": "config/xaero/minimap/default_radar_categories_server.json"
+          }
+        },
+        {
+          "id": "default.cfg",
+          "name": "default.cfg",
+          "type": "File",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/files/config/xaero/minimap/profiles/default.cfg",
+            "size": 3923,
+            "MD5": "b78d9ced8b705754452c12aa2c3ce64e",
+            "path": "config/xaero/minimap/profiles/default.cfg"
+          }
+        },
+        {
+          "id": "default.cfg.json",
+          "name": "default.cfg.json",
+          "type": "File",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/files/config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json",
+            "size": 5532,
+            "MD5": "def73b4a63a87ce2b70f45f8a5c56966",
+            "path": "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
+          }
+        },
+        {
+          "id": "default.cfg.txt",
+          "name": "default.cfg.txt",
+          "type": "File",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/files/config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
+            "size": 684,
+            "MD5": "64d98932063f0be723920fbdb1de1268",
+            "path": "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+          }
+        },
+        {
+          "id": "default.cfg",
+          "name": "default.cfg",
+          "type": "File",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/files/config/xaero/minimap/server_profiles/default.cfg",
+            "size": 75,
+            "MD5": "a7ba1c4e531ad6afe1fa89e86f7dfd6f",
+            "path": "config/xaero/minimap/server_profiles/default.cfg"
           }
         },
         {
@@ -402,6 +644,28 @@
           "artifact": {
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/files/options.txt",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "AllTheMons [R3.5.1].zip",
+          "name": "AllTheMons [R3.5.1].zip",
+          "type": "File",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/files/resourcepacks/AllTheMons%20[R3.5.1].zip",
+            "size": 12490533,
+            "MD5": "c137dc50cc31cda75ef5f76cbbe74247",
+            "path": "resourcepacks/AllTheMons [R3.5.1].zip"
+          }
+        },
+        {
+          "id": "E19 Cobblemon Minimap Icons.zip",
+          "name": "E19 Cobblemon Minimap Icons.zip",
+          "type": "File",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/files/resourcepacks/E19%20Cobblemon%20Minimap%20Icons.zip",
+            "size": 19398814,
+            "MD5": "790d4b235650a8c637cd59dea859a273",
+            "path": "resourcepacks/E19 Cobblemon Minimap Icons.zip"
           }
         }
       ]
