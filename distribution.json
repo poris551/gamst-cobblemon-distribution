@@ -401,8 +401,8 @@
           "type": "FabricMod",
           "artifact": {
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/perkemon_clientmod-1.0-SNAPSHOT.jar",
-            "size": 11275392,
-            "MD5": "b2c4e509d803c601a1ae9cdd583ab750"
+            "size": 11288729,
+            "MD5": "20b04b8b2c19aa85b8a99b3f17891c6a"
           }
         },
         {
@@ -603,6 +603,15 @@
           }
         },
         {
+          "id": "iris.properties",
+          "name": "iris.properties",
+          "type": "File",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/files/iris.properties",
+            "path": "iris.properties"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
@@ -634,12 +643,32 @@
           }
         },
         {
+          "id": "Mc둥근모.zip",
+          "name": "Mc둥근모.zip",
+          "type": "File",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/files/resourcepacks/Mc%EB%91%A5%EA%B7%BC%EB%AA%A8.zip",
+            "size": 461208,
+            "MD5": "27ec738969c36055b7bdda42cbc42957",
+            "path": "resourcepacks/Mc둥근모.zip"
+          }
+        },
+        {
           "id": "servers.dat",
           "name": "servers.dat",
           "type": "File",
           "artifact": {
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/files/servers.dat",
             "path": "servers.dat"
+          }
+        },
+        {
+          "id": "TrailerShaders_v1.4.zip",
+          "name": "TrailerShaders_v1.4.zip",
+          "type": "File",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/files/shaderpacks/TrailerShaders_v1.4.zip",
+            "path": "shaderpacks/TrailerShaders_v1.4.zip"
           }
         }
       ]
