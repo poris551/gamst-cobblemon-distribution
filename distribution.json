@@ -491,8 +491,6 @@
           "type": "File",
           "artifact": {
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/files/config/xaero/lib/client.cfg",
-            "size": 26,
-            "MD5": "dd7d24d2b991f7648671c16d0a74c265",
             "path": "config/xaero/lib/client.cfg"
           }
         },
@@ -502,8 +500,6 @@
           "type": "File",
           "artifact": {
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/files/config/xaero/lib/common.cfg",
-            "size": 236,
-            "MD5": "e085e122e32132e1fa73ac927f7ece81",
             "path": "config/xaero/lib/common.cfg"
           }
         },
@@ -513,8 +509,6 @@
           "type": "File",
           "artifact": {
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/files/config/xaero/lib/profiles/default.cfg",
-            "size": 121,
-            "MD5": "e6a2491cfa99c4163942c19eb7b4c489",
             "path": "config/xaero/lib/profiles/default.cfg"
           }
         },
@@ -524,8 +518,6 @@
           "type": "File",
           "artifact": {
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/files/config/xaero/lib/server_profiles/default.cfg",
-            "size": 75,
-            "MD5": "a7ba1c4e531ad6afe1fa89e86f7dfd6f",
             "path": "config/xaero/lib/server_profiles/default.cfg"
           }
         },
@@ -535,8 +527,6 @@
           "type": "File",
           "artifact": {
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/files/config/xaero/minimap/client.cfg",
-            "size": 235,
-            "MD5": "7a8d5e6353c7471f6002052f1fbd71bb",
             "path": "config/xaero/minimap/client.cfg"
           }
         },
@@ -546,8 +536,6 @@
           "type": "File",
           "artifact": {
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/files/config/xaero/minimap/common.cfg",
-            "size": 147,
-            "MD5": "48d56532be92f58e976a2d1753abdd35",
             "path": "config/xaero/minimap/common.cfg"
           }
         },
@@ -557,8 +545,6 @@
           "type": "File",
           "artifact": {
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/files/config/xaero/minimap/default_radar_categories_client.json",
-            "size": 5531,
-            "MD5": "0e8e29f25acbd9e2afba35ce9bb2fb9c",
             "path": "config/xaero/minimap/default_radar_categories_client.json"
           }
         },
@@ -568,8 +554,6 @@
           "type": "File",
           "artifact": {
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/files/config/xaero/minimap/default_radar_categories_server.json",
-            "size": 4597,
-            "MD5": "7ffe568a308241b93166af2d45ce79c7",
             "path": "config/xaero/minimap/default_radar_categories_server.json"
           }
         },
@@ -579,8 +563,6 @@
           "type": "File",
           "artifact": {
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/files/config/xaero/minimap/profiles/default.cfg",
-            "size": 3923,
-            "MD5": "b78d9ced8b705754452c12aa2c3ce64e",
             "path": "config/xaero/minimap/profiles/default.cfg"
           }
         },
@@ -590,8 +572,6 @@
           "type": "File",
           "artifact": {
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/files/config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json",
-            "size": 5532,
-            "MD5": "def73b4a63a87ce2b70f45f8a5c56966",
             "path": "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
           }
         },
@@ -601,8 +581,6 @@
           "type": "File",
           "artifact": {
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/files/config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
-            "size": 684,
-            "MD5": "64d98932063f0be723920fbdb1de1268",
             "path": "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
           }
         },
@@ -612,9 +590,16 @@
           "type": "File",
           "artifact": {
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/files/config/xaero/minimap/server_profiles/default.cfg",
-            "size": 75,
-            "MD5": "a7ba1c4e531ad6afe1fa89e86f7dfd6f",
             "path": "config/xaero/minimap/server_profiles/default.cfg"
+          }
+        },
+        {
+          "id": "xaerohud.txt",
+          "name": "xaerohud.txt",
+          "type": "File",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/files/config/xaerohud.txt",
+            "path": "config/xaerohud.txt"
           }
         },
         {
@@ -646,6 +631,15 @@
             "size": 19398814,
             "MD5": "790d4b235650a8c637cd59dea859a273",
             "path": "resourcepacks/E19 Cobblemon Minimap Icons.zip"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/files/servers.dat",
+            "path": "servers.dat"
           }
         }
       ]
