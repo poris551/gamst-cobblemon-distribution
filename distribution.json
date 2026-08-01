@@ -256,6 +256,16 @@
           }
         },
         {
+          "id": "generated.fabricmod:forcecloseworldloadingscreen:2.2.3@jar",
+          "name": "Kennytv's epic force close loading screen mod for Fabric",
+          "type": "FabricMod",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/forcecloseloadingscreen-2.2.3.jar",
+            "size": 115043,
+            "MD5": "838da17087da84d2649cc862511ec210"
+          }
+        },
+        {
           "id": "fuzs.forgeconfigapiport.fabric.impl:forgeconfigapiport:21.1.6@jar",
           "name": "Forge Config API Port",
           "type": "FabricMod",
@@ -423,6 +433,16 @@
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/resourcefullib-fabric-1.21-3.0.12.jar",
             "size": 485586,
             "MD5": "89dac4248b76747800fbc00fa063825e"
+          }
+        },
+        {
+          "id": "ca.spottedleaf.starlight:scalablelux:0.1.0.1+fabric.d0d58ab@jar",
+          "name": "ScalableLux",
+          "type": "FabricMod",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/ScalableLux-0.1.0.1+fabric.d0d58ab-all.jar",
+            "size": 177266,
+            "MD5": "34cb60a3db0f2439db221bc3325c1411"
           }
         },
         {
