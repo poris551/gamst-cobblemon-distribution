@@ -451,8 +451,8 @@
           "type": "FabricMod",
           "artifact": {
             "url": "https://raw.githubusercontent.com/poris551/gamst-cobblemon-distribution/refs/heads/main/servers/gamst-1.21.1/fabricmods/required/perkemon_clientmod-1.0-SNAPSHOT.jar",
-            "size": 11347303,
-            "MD5": "dc75e55b2311c2e3138c089d1b9d27d0"
+            "size": 11442565,
+            "MD5": "ce92b4cf52d3e50ec83dd304629171c2"
           }
         },
         {
